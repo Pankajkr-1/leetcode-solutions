@@ -127,6 +127,7 @@ Every solution file starts with a short header comment:
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
 |  |
 | ------- |
@@ -139,4 +140,5 @@ Every solution file starts with a short header comment:
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 <!---LeetCode Topics End-->
