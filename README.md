@@ -127,11 +127,13 @@ Every solution file starts with a short header comment:
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -141,4 +143,16 @@ Every solution file starts with a short header comment:
 | ------- |
 | [0009-palindrome-number](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+## Greedy
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+## Sorting
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
