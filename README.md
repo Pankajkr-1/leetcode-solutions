@@ -130,6 +130,7 @@ Every solution file starts with a short header comment:
 | [2333-minimum-sum-of-squared-difference](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -144,6 +145,7 @@ Every solution file starts with a short header comment:
 | ------- |
 | [0009-palindrome-number](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Greedy
 |  |
 | ------- |
