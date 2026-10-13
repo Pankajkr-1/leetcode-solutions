@@ -129,6 +129,7 @@ Every solution file starts with a short header comment:
 | [0004-median-of-two-sorted-arrays](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Search
 |  |
 | ------- |
@@ -147,10 +148,12 @@ Every solution file starts with a short header comment:
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
