@@ -169,4 +169,8 @@ Every solution file starts with a short header comment:
 |  |
 | ------- |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+## String
+|  |
+| ------- |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 <!---LeetCode Topics End-->
