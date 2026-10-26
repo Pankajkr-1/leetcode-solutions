@@ -138,6 +138,7 @@ Every solution file starts with a short header comment:
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/0069-sqrtx) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Divide and Conquer
@@ -148,6 +149,7 @@ Every solution file starts with a short header comment:
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/0069-sqrtx) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Greedy
@@ -198,4 +200,8 @@ Every solution file starts with a short header comment:
 | [0177-nth-highest-salary](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/0180-consecutive-numbers) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
