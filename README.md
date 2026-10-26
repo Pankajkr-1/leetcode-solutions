@@ -190,4 +190,8 @@ Every solution file starts with a short header comment:
 |  |
 | ------- |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
