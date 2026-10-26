@@ -194,4 +194,5 @@ Every solution file starts with a short header comment:
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/0175-combine-two-tables) |
+| [0176-second-highest-salary](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
