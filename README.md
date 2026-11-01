@@ -128,6 +128,7 @@ Every solution file starts with a short header comment:
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -154,6 +155,7 @@ Every solution file starts with a short header comment:
 | ------- |
 | [0009-palindrome-number](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Greedy
