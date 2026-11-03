@@ -135,6 +135,7 @@ Every solution file starts with a short header comment:
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
@@ -157,6 +158,7 @@ Every solution file starts with a short header comment:
 | [0069-sqrtx](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Greedy
 |  |
