@@ -175,6 +175,7 @@ Every solution file starts with a short header comment:
 | [0455-assign-cookies](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/0605-can-place-flowers) |
+| [0680-valid-palindrome-ii](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
@@ -205,6 +206,7 @@ Every solution file starts with a short header comment:
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/0409-longest-palindrome) |
+| [0680-valid-palindrome-ii](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Depth-First Search
@@ -241,6 +243,7 @@ Every solution file starts with a short header comment:
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0455-assign-cookies](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0680-valid-palindrome-ii](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
