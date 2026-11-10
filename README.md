@@ -143,6 +143,7 @@ Every solution file starts with a short header comment:
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3693-climbing-stairs-ii](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -270,6 +271,7 @@ Every solution file starts with a short header comment:
 |  |
 | ------- |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3693-climbing-stairs-ii](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 ## Sliding Window
 |  |
 | ------- |
