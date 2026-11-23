@@ -134,6 +134,7 @@ Every solution file starts with a short header comment:
 | [0605-can-place-flowers](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0942-di-string-match](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/0942-di-string-match) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/1882-process-tasks-using-servers) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -169,6 +170,7 @@ Every solution file starts with a short header comment:
 | [0009-palindrome-number](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -313,4 +315,16 @@ Every solution file starts with a short header comment:
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Pankajkr-1/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
